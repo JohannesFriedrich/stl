@@ -2,6 +2,7 @@
 #include <Rinternals.h>
 #include <stdio.h>
 #include <string.h>
+#include <stdint.h>
 
 #define STL_HEADER_LEN 80
 #define BUFFER_SIZE 256
