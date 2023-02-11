@@ -6,7 +6,7 @@
 // Many thanks to coolbutuseless for the great tutorials!
 // https://github.com/coolbutuseless/simplecall
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-extern SEXP readSTL_();
+extern SEXP readSTL_(SEXP, SEXP);
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // .C      R_CMethodDef

@@ -27,4 +27,4 @@ triangles3d(boat, col = "green")
 close3d()
 ```
 
-![](README_figs/example.png)
+![](README_figs/example.gif)
